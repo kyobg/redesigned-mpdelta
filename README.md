@@ -1,2 +1,4 @@
 # redesigned-mpdelta
-This repository contains the modifications and improvements I have created or added to better improve the broken Monoprice Mini Delta Printer.
+DISCLAIMER: This in an ongoing project, and will likely be updated infrequently.
+
+This repository will contain the modifications, CAD, and other circuitry components utilized to better this printer.
